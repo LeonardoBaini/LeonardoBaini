@@ -1,29 +1,28 @@
-<h1 align="center">Hi 👋, I'm Leonardo Baini</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+👋 ¡Hola! Soy Leonardo Baini
+🧑‍💻 Backend Developer | JavaScript | TypeScript | Java | C++ | NestJS | NodeJS | PostgreSQL | SQL Server
+👨‍🏫 Sobre mí
+¡Hola! Soy Leonardo, Backend Developer graduado de Soy Henry y Técnico Universitario en Informática. A lo largo de los últimos 10 años, he trabajado como soporte técnico de aplicaciones nivel 3 en empresas multinacionales, donde adquirí una amplia experiencia en la resolución de problemas técnicos, análisis de requerimientos, y colaboración con proveedores internacionales.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardobaini" alt="leonardobaini" /></a> </p>
+Mi experiencia en troubleshooting y desarrollo me ha permitido solucionar desde problemas sencillos hasta complejos desafíos técnicos, utilizando tecnologías como Java, C++, JavaScript, y bases de datos como PostgreSQL, SQL Server, y SQLite.
 
-- 🔭 I’m currently working on [PowerGym APP](https://powerfrontvercel.vercel.app/)
+🌍 Mi camino y evolución
+Durante mi carrera, he podido aplicar mis conocimientos de programación para resolver problemas críticos de negocio, además de optimizar procesos de soporte IT. Esta experiencia me ha dado una perspectiva única sobre el ciclo de vida del desarrollo y el impacto que las aplicaciones tienen tanto en usuarios como en el equipo de soporte.
 
-- 🌱 I’m currently learning **Phyton**
+Mi enfoque ahora está completamente dirigido hacia el desarrollo de software. Me apasiona crear soluciones robustas y escalables que no solo se adapten a las necesidades del usuario, sino que también sean fáciles de mantener y actualizar. Diseño mis aplicaciones pensando en los escenarios más críticos, incluyendo la recuperación automática ante fallos de red o problemas con las bases de datos.
 
-- 👨‍💻 All of my projects are available at [https://leonardobaini.github.io/](https://leonardobaini.github.io/)
+🚀 A dónde me dirijo
+Actualmente, estoy enfocado en proyectos que me permitan aplicar mis habilidades de desarrollo junto con mi experiencia en soporte. Mi propuesta de valor es combinar estos dos mundos, brindando soluciones técnicas que integren ambos enfoques. Estoy siempre dispuesto a aprender algo nuevo y a enfrentar desafíos emocionantes.
 
-- 💬 Ask me about **Nest JS, Node,Javascript**
+🛠️ Tecnologías con las que trabajo
+Lenguajes: Java, C++, JavaScript, TypeScript
+Backend: NodeJS, NestJS
+Bases de datos: PostgreSQL, SQL Server, SQLite
+Herramientas: Docker, Git, GitHub
+🤝 ¡No dudes en contactarme!
+Si te gustaría colaborar en proyectos innovadores y desafiantes, ¡no dudes en ponerte en contacto conmigo! Estoy abierto a nuevas oportunidades y listo para contribuir con mis habilidades y experiencia.
 
-- 📫 How to reach me **bainileonardo@gmail.com**
+📧 Correo: bainileonardo@gmail.com
+📱 WhatsApp: +54-911-2188-4991
+💼 LinkedIn: Leonardo Baini (https://www.linkedin.com/in/leonardobaini/)
+✨ Siempre listo para aprender algo nuevo y enfrentar emocionantes desafíos. ✨
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/leonardo-baini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-baini" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/leonardobaini"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leonardobaini" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardobaini&show_icons=true&locale=en&layout=compact" alt="leonardobaini" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardobaini&show_icons=true&locale=en" alt="leonardobaini" /></p>
